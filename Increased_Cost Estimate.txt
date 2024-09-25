@@ -1,0 +1,2 @@
+The infrastructure was modified to improve reliability and scalability by adjusting both the application and web server tiers. 
+EC2 instances for app servers and web servers were scaled up to four instances each, distributed across two Availability Zones (AZs), ensuring high availability and fault tolerance in case one AZ goes down. Additionally, a new RDS node was added to enhance database redundancy and performance

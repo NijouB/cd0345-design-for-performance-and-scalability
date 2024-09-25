@@ -1,0 +1,2 @@
+The transition from AWS EC2 On-Demand to a 1-year Savings Plan with all upfront payment was made to optimize costs. 
+This change offers substantial savings for consistent workloads compared to the higher rates of On-Demand pricing. 
